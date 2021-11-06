@@ -11,7 +11,7 @@ body {
 
 main {
     width: 1000px;
-    height:9140px;
+    height:11550px;
     border-radius: 10px;
     box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
     padding-left: 25px;
@@ -68,7 +68,7 @@ h1.key {
 @media (max-width: 700px){
     main{
         width: 385px;
-        height: 21245px;
+        height: 27255px;
     }
     .top-banner{
         display: flex;
