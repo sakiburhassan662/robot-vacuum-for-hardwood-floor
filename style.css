@@ -52,11 +52,21 @@ hr {
     margin-top: 40px;
     margin-bottom: 25px;
 }
+h1.key {
+    color: #8f8f8f;
+    font-size: 20px;
+    line-height: 32px;
+}
 
 /* media jquray */
 @media (max-width: 700px){
     main{
         width: 385px;
+    }
+    .top-banner{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 }
 @media only screen and (min-width: 768px) and (max-width: 1024px){
